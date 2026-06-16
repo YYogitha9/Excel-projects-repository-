@@ -76,8 +76,4 @@ This project was completed as part of a Data Technician Bootcamp, focusing on co
 ---
 
 
----
-
-## 📎 Project Context
-Completed during **Week 1 Excel Workbook** of the Data Technician Bootcamp, focusing on foundational data analysis and visualisation skills using Excel.
 
